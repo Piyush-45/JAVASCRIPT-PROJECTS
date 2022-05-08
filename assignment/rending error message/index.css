@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+img{
+    height: 40%;
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 10rem;
+    margin-top:1rem ;
+    
+}
+h1{
+    margin-left: 10rem;
+    margin-top:1rem ;
+    color: rebeccapurple;
+}
+button{
+    margin-left: 10rem;
+    /* margin-top:1rem ; */
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+}
+
+.huge{
+    font-size: 10rem;
+}
